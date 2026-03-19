@@ -1,0 +1,5 @@
+{
+  "name": "Ultimate Chords",
+  "description": "A guitar chords and lyrics app clone that uses AI to generate song tabs on demand.",
+  "requestFramePermissions": ["microphone"]
+}
